@@ -1,4 +1,4 @@
-![image](https://github.com/ArpanaMittal20/Data-Analytics-Project/assets/162703210/8ffacd08-2d13-4b1f-91f6-ec70e164b5b0)Pizza Sales Analysis with MySQL and Power BI
+**Pizza Sales Analysis with MySQL and Power BI**
 
 This repository contains a project focused on analyzing pizza sales data using MySQL and Power BI for visualization. 
 
